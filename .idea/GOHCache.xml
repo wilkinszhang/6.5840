@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Annotation">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/annotation.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ApplyMsg">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/raftapi/raftapi.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CheckerBegin">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/annotation.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Clerk">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/client.go" />
+              <option value="file://$PROJECT_DIR$/src/kvsrv1/client.go" />
+              <option value="file://$PROJECT_DIR$/src/shardkv1/client.go" />
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/client.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ClientEnd">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/labrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Clnt">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/clnts.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ClntRes">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvtest1/kvtest.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Clnts">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/clnts.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Config">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Continuous">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/annotation.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Coordinator">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/mr/coordinator.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DD">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labgob/test_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Dec">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteShardArgs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteShardReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="EntryN">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvtest1/kvtest.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="EntryV">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvtest1/kvtest.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ExampleArgs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/mr/rpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ExampleReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/mr/rpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FrameworkInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/annotation.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FreezeArgs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FreezeReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetArgs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvsrv1/rpc/rpc.go" />
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GetReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvsrv1/rpc/rpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Groups">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/group.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Inc">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="IncRep">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="InstallShardArgs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="InstallShardReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JunkArgs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/test_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JunkReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/test_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JunkServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/test_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="KVServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/server.go" />
+              <option value="file://$PROJECT_DIR$/src/kvsrv1/server.go" />
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="KeyValue">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/mr/worker.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="KvInput">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/models1/kv.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="KvOutput">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/models1/kv.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="KvState">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/models1/kv.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LabDecoder">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labgob/labgob.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LabEncoder">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labgob/labgob.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Lock">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvsrv1/lock/lock.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Network">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/labrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Null">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NullRep">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Op">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/rsm.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OpLog">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvtest1/porcupine.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Persister">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/persister.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PutArgs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvsrv1/rpc/rpc.go" />
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PutReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvsrv1/rpc/rpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RSM">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/rsm.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Raft">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/raft1/raft.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RequestVoteArgs">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/raft1/raft.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RequestVoteReply">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/raft1/raft.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/labrpc.go" />
+              <option value="file://$PROJECT_DIR$/src/tester1/srv.go" />
+              <option value="file://$PROJECT_DIR$/src/tester1/tester_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ServerGrp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/group.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Service">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/labrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ShardConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardcfg/shardcfg.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ShardCtrler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/shardkv1/shardctrler/shardctrler.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="T1">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labgob/test_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="T2">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labgob/test_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="T3">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labgob/test_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="T4">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labgob/test_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Test">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/test.go" />
+              <option value="file://$PROJECT_DIR$/src/kvraft1/test.go" />
+              <option value="file://$PROJECT_DIR$/src/kvtest1/kvtest.go" />
+              <option value="file://$PROJECT_DIR$/src/raft1/test.go" />
+              <option value="file://$PROJECT_DIR$/src/shardkv1/test.go" />
+              <option value="file://$PROJECT_DIR$/src/tester1/tester_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TestClerk">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvtest1/kvtest.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TestKV">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvsrv1/test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="end">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/tester1/clnts.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="entry">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvtest1/kvtest.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="replyMsg">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/labrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="reqMsg">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/labrpc/labrpc.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="rfsrv">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/raft1/server.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="rsmSrv">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/src/kvraft1/rsm/server.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/kvraft1/client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465444" />
+              <option name="schema">
+                <list>
+                  <option value="Clerk" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvraft1/kvraft_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465444" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvraft1/rsm/rsm.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465444" />
+              <option name="schema">
+                <list>
+                  <option value="Op" />
+                  <option value="RSM" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvraft1/rsm/rsm_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465445" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvraft1/rsm/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465445" />
+              <option name="schema">
+                <list>
+                  <option value="Inc" />
+                  <option value="IncRep" />
+                  <option value="Null" />
+                  <option value="NullRep" />
+                  <option value="Dec" />
+                  <option value="rsmSrv" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvraft1/rsm/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465445" />
+              <option name="schema">
+                <list>
+                  <option value="Test" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvraft1/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465445" />
+              <option name="schema">
+                <list>
+                  <option value="KVServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvraft1/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465447" />
+              <option name="schema">
+                <list>
+                  <option value="Test" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvsrv1/client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465447" />
+              <option name="schema">
+                <list>
+                  <option value="Clerk" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvsrv1/kvsrv_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465447" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvsrv1/lock/lock.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465448" />
+              <option name="schema">
+                <list>
+                  <option value="Lock" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvsrv1/lock/lock_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465449" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvsrv1/rpc/rpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465449" />
+              <option name="schema">
+                <list>
+                  <option value="PutArgs" />
+                  <option value="PutReply" />
+                  <option value="GetArgs" />
+                  <option value="GetReply" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvsrv1/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465449" />
+              <option name="schema">
+                <list>
+                  <option value="KVServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvsrv1/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465449" />
+              <option name="schema">
+                <list>
+                  <option value="TestKV" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvtest1/kvtest.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465449" />
+              <option name="schema">
+                <list>
+                  <option value="TestClerk" />
+                  <option value="Test" />
+                  <option value="ClntRes" />
+                  <option value="EntryV" />
+                  <option value="entry" />
+                  <option value="EntryN" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/kvtest1/porcupine.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465450" />
+              <option name="schema">
+                <list>
+                  <option value="OpLog" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/labgob/labgob.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465451" />
+              <option name="schema">
+                <list>
+                  <option value="LabEncoder" />
+                  <option value="LabDecoder" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/labgob/test_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465451" />
+              <option name="schema">
+                <list>
+                  <option value="T1" />
+                  <option value="T2" />
+                  <option value="T3" />
+                  <option value="T4" />
+                  <option value="DD" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/labrpc/labrpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465452" />
+              <option name="schema">
+                <list>
+                  <option value="reqMsg" />
+                  <option value="replyMsg" />
+                  <option value="ClientEnd" />
+                  <option value="Network" />
+                  <option value="Server" />
+                  <option value="Service" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/labrpc/test_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465452" />
+              <option name="schema">
+                <list>
+                  <option value="JunkArgs" />
+                  <option value="JunkReply" />
+                  <option value="JunkServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/diskvd.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465452" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/lockc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465452" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/lockd.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465452" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/mrcoordinator.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465452" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/mrsequential.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465453" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/mrworker.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465454" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/pbc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465454" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/pbd.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465455" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/main/viewd.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465474" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/models1/kv.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465474" />
+              <option name="schema">
+                <list>
+                  <option value="KvInput" />
+                  <option value="KvOutput" />
+                  <option value="KvState" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mr/coordinator.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465475" />
+              <option name="schema">
+                <list>
+                  <option value="Coordinator" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mr/rpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465475" />
+              <option name="schema">
+                <list>
+                  <option value="ExampleArgs" />
+                  <option value="ExampleReply" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mr/worker.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465475" />
+              <option name="schema">
+                <list>
+                  <option value="KeyValue" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mrapps/crash.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465476" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mrapps/early_exit.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465476" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mrapps/indexer.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465476" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mrapps/jobcount.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465477" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mrapps/mtiming.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465477" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mrapps/rtiming.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465478" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/mrapps/wc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465478" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/raft1/raft.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465479" />
+              <option name="schema">
+                <list>
+                  <option value="Raft" />
+                  <option value="RequestVoteArgs" />
+                  <option value="RequestVoteReply" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/raft1/raft_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465479" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/raft1/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465480" />
+              <option name="schema">
+                <list>
+                  <option value="rfsrv" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/raft1/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465480" />
+              <option name="schema">
+                <list>
+                  <option value="Test" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/raft1/util.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465480" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/raftapi/raftapi.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465481" />
+              <option name="schema">
+                <list>
+                  <option value="ApplyMsg" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465481" />
+              <option name="schema">
+                <list>
+                  <option value="Clerk" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/shardcfg/shardcfg.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465482" />
+              <option name="schema">
+                <list>
+                  <option value="ShardConfig" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/shardcfg/shardcfg_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465482" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/shardctrler/shardctrler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465483" />
+              <option name="schema">
+                <list>
+                  <option value="ShardCtrler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/shardgrp/client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465483" />
+              <option name="schema">
+                <list>
+                  <option value="Clerk" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/shardgrp/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465484" />
+              <option name="schema">
+                <list>
+                  <option value="KVServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/shardgrp/shardrpc/shardrpc.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465484" />
+              <option name="schema">
+                <list>
+                  <option value="PutArgs" />
+                  <option value="GetArgs" />
+                  <option value="FreezeArgs" />
+                  <option value="FreezeReply" />
+                  <option value="InstallShardArgs" />
+                  <option value="InstallShardReply" />
+                  <option value="DeleteShardArgs" />
+                  <option value="DeleteShardReply" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/shardkv_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465484" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/shardkv1/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465485" />
+              <option name="schema">
+                <list>
+                  <option value="Test" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/tester1/annotation.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465485" />
+              <option name="schema">
+                <list>
+                  <option value="Annotation" />
+                  <option value="Continuous" />
+                  <option value="FrameworkInfo" />
+                  <option value="CheckerBegin" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/tester1/clnts.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465485" />
+              <option name="schema">
+                <list>
+                  <option value="end" />
+                  <option value="Clnt" />
+                  <option value="Clnts" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/tester1/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465486" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/tester1/group.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465486" />
+              <option name="schema">
+                <list>
+                  <option value="Groups" />
+                  <option value="ServerGrp" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/tester1/persister.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465487" />
+              <option name="schema">
+                <list>
+                  <option value="Persister" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/tester1/srv.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465487" />
+              <option name="schema">
+                <list>
+                  <option value="Server" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/tester1/tester_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747560465487" />
+              <option name="schema">
+                <list>
+                  <option value="Server" />
+                  <option value="Test" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="annotation" value="Annotation" />
+        <entry key="apply_msg" value="ApplyMsg" />
+        <entry key="checker_begin" value="CheckerBegin" />
+        <entry key="clerk" value="Clerk" />
+        <entry key="client_end" value="ClientEnd" />
+        <entry key="clnt" value="Clnt" />
+        <entry key="clnt_res" value="ClntRes" />
+        <entry key="clnts" value="Clnts" />
+        <entry key="config" value="Config" />
+        <entry key="continuous" value="Continuous" />
+        <entry key="coordinator" value="Coordinator" />
+        <entry key="dd" value="DD" />
+        <entry key="dec" value="Dec" />
+        <entry key="delete_shard_args" value="DeleteShardArgs" />
+        <entry key="delete_shard_reply" value="DeleteShardReply" />
+        <entry key="end" value="end" />
+        <entry key="entry" value="entry" />
+        <entry key="entry_n" value="EntryN" />
+        <entry key="entry_v" value="EntryV" />
+        <entry key="example_args" value="ExampleArgs" />
+        <entry key="example_reply" value="ExampleReply" />
+        <entry key="framework_info" value="FrameworkInfo" />
+        <entry key="freeze_args" value="FreezeArgs" />
+        <entry key="freeze_reply" value="FreezeReply" />
+        <entry key="get_args" value="GetArgs" />
+        <entry key="get_reply" value="GetReply" />
+        <entry key="groups" value="Groups" />
+        <entry key="inc" value="Inc" />
+        <entry key="inc_rep" value="IncRep" />
+        <entry key="install_shard_args" value="InstallShardArgs" />
+        <entry key="install_shard_reply" value="InstallShardReply" />
+        <entry key="junk_args" value="JunkArgs" />
+        <entry key="junk_reply" value="JunkReply" />
+        <entry key="junk_server" value="JunkServer" />
+        <entry key="key_value" value="KeyValue" />
+        <entry key="kv_input" value="KvInput" />
+        <entry key="kv_output" value="KvOutput" />
+        <entry key="kv_server" value="KVServer" />
+        <entry key="kv_state" value="KvState" />
+        <entry key="lab_decoder" value="LabDecoder" />
+        <entry key="lab_encoder" value="LabEncoder" />
+        <entry key="lock" value="Lock" />
+        <entry key="network" value="Network" />
+        <entry key="null" value="Null" />
+        <entry key="null_rep" value="NullRep" />
+        <entry key="op" value="Op" />
+        <entry key="op_log" value="OpLog" />
+        <entry key="persister" value="Persister" />
+        <entry key="put_args" value="PutArgs" />
+        <entry key="put_reply" value="PutReply" />
+        <entry key="raft" value="Raft" />
+        <entry key="reply_msg" value="replyMsg" />
+        <entry key="req_msg" value="reqMsg" />
+        <entry key="request_vote_args" value="RequestVoteArgs" />
+        <entry key="request_vote_reply" value="RequestVoteReply" />
+        <entry key="rfsrv" value="rfsrv" />
+        <entry key="rsm" value="RSM" />
+        <entry key="rsm_srv" value="rsmSrv" />
+        <entry key="server" value="Server" />
+        <entry key="server_grp" value="ServerGrp" />
+        <entry key="service" value="Service" />
+        <entry key="shard_config" value="ShardConfig" />
+        <entry key="shard_ctrler" value="ShardCtrler" />
+        <entry key="t1" value="T1" />
+        <entry key="t2" value="T2" />
+        <entry key="t3" value="T3" />
+        <entry key="t4" value="T4" />
+        <entry key="test" value="Test" />
+        <entry key="test_clerk" value="TestClerk" />
+        <entry key="test_kv" value="TestKV" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1747560469179" />
+  </component>
+</project>

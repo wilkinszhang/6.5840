@@ -24,6 +24,53 @@ type ExampleReply struct {
 
 // Add your RPC definitions here.
 
+// 任务类型
+const (
+	MapTask = iota
+	ReduceTask
+	NoTask
+	ExitTask
+)
+
+// 任务状态
+const (
+	TaskIdle = iota
+	TaskInProgress
+	TaskCompleted
+)
+
+// 任务结构体
+type Task struct {
+	TaskType    int      // MapTask, ReduceTask, NoTask, ExitTask
+	TaskId      int      // 任务ID
+	FileName    string   // 输入文件名（Map任务使用）
+	NReduce     int      // Reduce任务数量
+	NMap        int      // Map任务数量
+	State       int      // 任务状态
+	StartTime   int64    // 任务开始时间
+}
+
+// 请求任务参数
+type RequestTaskArgs struct {
+	WorkerId int
+}
+
+// 请求任务响应
+type RequestTaskReply struct {
+	Task Task
+}
+
+// 完成任务参数
+type CompleteTaskArgs struct {
+	TaskId   int
+	TaskType int
+	WorkerId int
+}
+
+// 完成任务响应
+type CompleteTaskReply struct {
+	Success bool
+}
 
 // Cook up a unique-ish UNIX-domain socket name
 // in /var/tmp, for the coordinator.
